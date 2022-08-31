@@ -251,6 +251,11 @@
                          "value":"Press SPACE to enter IceWarp meeting"
                         }, 
                         {
+                         "name":"silent",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"zoom_margin",
                          "type":"float",
                          "value":1
